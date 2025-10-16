@@ -1,7 +1,7 @@
 <!-- LANGUAGE TOGGLE -->
 <p align="right">
-  <a href="#english-version">🇬🇧 English</a> | 
-  <a href="#versão-em-português">🇵🇹 Português</a>
+  <a href="#english-version">EN</a> | 
+  <a href="#versão-em-português">PT</a>
 </p>
 
 ---
